@@ -1,0 +1,63 @@
+.content{
+    height: 320px;
+    width: auto;
+    /* border: solid; */
+    background-color: rgb(53, 53, 53);
+}
+.listbox{
+    height: 290px;
+    width: 1300px;
+    margin: auto;
+    /* border: solid; */
+}
+.company{
+    height: 280px;
+    width: 250px;
+    display: inline-block;
+    /* border: solid; */
+    color: white;
+    line-height: 25px;
+    font-family: "Roboto", "Arial","sans-serif";
+}
+.product{ 
+    height: 280px;
+    width: 250px;
+    display: inline-block;
+    /* border: solid; */
+    color: white;
+    line-height: 25px;
+    position: relative;
+    bottom: 25px;
+    font-family: "Roboto", "Arial","sans-serif";
+}
+.themetemplates{ 
+    height: 280px;
+    width: 250px;
+    display: inline-block;
+    /* border: solid; */
+    color: white;
+    line-height: 25px;
+    font-family: "Roboto", "Arial","sans-serif";
+}
+.nicepage{ 
+    height: 280px;
+    width: 250px;
+    display: inline-block;
+    /* border: solid; */
+    color: white;
+    line-height: 25px;
+    position: relative;
+    bottom: 25px;
+    font-family: "Roboto", "Arial","sans-serif";
+}
+.webdesign{
+    height: 280px;
+    width: 250px;
+    display: inline-block;
+    /* border: solid; */
+    color: white;
+    line-height: 25px;
+    position: relative;
+    bottom: 25px;
+    font-family: "Roboto", "Arial","sans-serif";
+}
